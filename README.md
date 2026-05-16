@@ -1,5 +1,5 @@
 # Student-report-card-using-C-
-Student Report Card SystemThis is a simple console-based application developed in C++ as part of my BCA coursework. 
+Student Report Card SystemThis is a simple console-based application developed in C as part of my BCA coursework. 
 
 The program is designed to manage student records, calculate grades, and display report cards.
 
